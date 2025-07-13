@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bonsai-tracker/static/css/main.3b5cb70b.css",
+    "main.js": "/bonsai-tracker/static/js/main.889f69a9.js",
+    "index.html": "/bonsai-tracker/index.html",
+    "main.3b5cb70b.css.map": "/bonsai-tracker/static/css/main.3b5cb70b.css.map",
+    "main.889f69a9.js.map": "/bonsai-tracker/static/js/main.889f69a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b5cb70b.css",
+    "static/js/main.889f69a9.js"
+  ]
+}
