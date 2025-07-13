@@ -1,1 +1,0 @@
-export default function PhotoGallery() { return <div className='bg-darkAccent p-4 rounded-2xl'>📸 Photo gallery coming soon…</div>; }

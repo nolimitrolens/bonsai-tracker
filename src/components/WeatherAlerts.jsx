@@ -1,1 +1,0 @@
-export default function WeatherAlerts() { return <div className='bg-darkAccent p-4 rounded-2xl'>🌡️ Weather alerts coming soon…</div>; }
